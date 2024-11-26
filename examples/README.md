@@ -7,6 +7,7 @@ Table of contents
   * [Setting crane's target](#setting-cranes-target)
   * [Distance to target](#distance-to-target)
   * [Moving to target](#moving-to-target)
+* [Example2](#eample2)
 * [Watchdog](#watchdog)
 
 # Example1
